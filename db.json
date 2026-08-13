@@ -34,6 +34,23 @@
             "Drama",
             "Thriller"
           ]
+        },
+        {
+          "id": "01dcaa07-d74d-4f82-b107-c5ea569f3969",
+          "title": "Hellraiser: Inferno",
+          "time": 100,
+          "genres": [
+            "Horror",
+            "action"
+          ]
+        },
+        {
+          "id": "c606c717-095c-4dfb-a5cb-234bdd9eb3c9",
+          "title": "The Day The Earth Stood Still",
+          "time": 103,
+          "genres": [
+            "Science fiction"
+          ]
         }
       ]
     },
@@ -120,5 +137,6 @@
         }
       ]
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
